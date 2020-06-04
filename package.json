@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndriiZil/worker-threads/issues"
   },
-  "homepage": "https://github.com/AndriiZil/worker-threads#readme"
+  "homepage": "https://github.com/AndriiZil/worker-threads#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
